@@ -78,6 +78,7 @@ set number
 set termguicolors
 set scrolloff=5
 set foldmethod=indent
+set nofoldenable
 set cursorline
 let mapleader="-"
 set list listchars=tab:»-,trail:·,extends:»,precedes:«
