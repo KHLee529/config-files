@@ -1,3 +1,7 @@
+# =============================================================================
+# This gitconfig file is modified from https://gist.github.com/pksunkara/988716
+# =============================================================================
+
 [user]
 	name = Kuan-Hsien Lee
 	email = khlee870529@gmail.com
