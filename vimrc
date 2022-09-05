@@ -70,7 +70,7 @@ call plug#end()
 "   filetype indent off   " Disable file-type-specific indentation
 "   syntax off            " Disable syntax highlighting
 
-colorscheme onedark
+silent! colorscheme onedark
 
 set laststatus=2
 syntax on
